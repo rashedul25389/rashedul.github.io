@@ -488,13 +488,16 @@ input[type="submit"]:hover{
     margin-top: -20px;
     position: absolute;
     top: 50%;
+    -webkit-transition: .3s;
     transition: .3s;
     opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     
 }
 .homepage-slider-wrap:hover .owl-nav div{
     left: 5%;
     opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     
 }
 .homepage-slider-wrap:hover .owl-nav div.owl-next{
