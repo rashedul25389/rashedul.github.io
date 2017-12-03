@@ -28,8 +28,8 @@
 @media only screen and (max-width: 767px) { 
     .big-feature-borderd-img {
         height: 50%;
-        width: 50%;
-        margin: 0;
+        width: 70%;
+        margin-left: 35px;
     }
     .border-bottom {
 	margin: 70px 0px;
