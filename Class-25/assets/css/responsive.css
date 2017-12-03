@@ -8,7 +8,7 @@
         margin-left: 10px;
     }
     .border-bottom {
-	    margin: 30px 0;
+	    margin: 30px 0 -40px;
     }  
     
 }
@@ -18,7 +18,7 @@
 	    margin-bottom: 15px;
     }
     .border-bottom {
-	    margin: 90px 0;
+	    margin: 80px 0 -40px;
     }
     .big-feature-borderd-img{
         margin-left: 90px;
@@ -32,7 +32,7 @@
         margin-left: 35px;
     }
     .border-bottom {
-	margin: 70px 0px;
+	margin: 70px 0 -40px;
     }
 }
 /* Wide Mobile Layout: 480px. */
